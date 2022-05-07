@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/movie_app_2022/static/js/main.feb01051.js",
-    "index.html": "/movie_app_2022/index.html",
-    "main.feb01051.js.map": "/movie_app_2022/static/js/main.feb01051.js.map"
+    "main.js": "/movie_app_2022/react-for-beginners/static/js/main.feb01051.js",
+    "index.html": "/movie_app_2022/react-for-beginners/index.html",
+    "main.feb01051.js.map": "/movie_app_2022/react-for-beginners/static/js/main.feb01051.js.map"
   },
   "entrypoints": [
     "static/js/main.feb01051.js"
